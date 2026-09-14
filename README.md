@@ -1,40 +1,52 @@
-# Hi, I'm Zidan Al-Hilali 👋
+<div align="center">
 
-Junior Software Developer building mobile apps with **Flutter** and desktop systems with **C# / .NET** — from requirements and UI design through to a working product.
+# Zidan Al-Hilali
 
-📍 Sana'a, Yemen — open to remote work
-🎓 B.Sc. Information Technology, GPA 90%
-🧠 650+ programming problems solved
-🌐 Portfolio: [zidanalhilali.dev](#) &nbsp;*(add your live link once hosted)*
+**Junior Software Developer** — Mobile (Flutter) &amp; Desktop (C# / .NET)
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+Sana'a, Yemen — open to remote work · B.Sc. Information Technology, GPA 90% · 650+ programming problems solved
 
----
+[Portfolio](https://zidanalhilali.github.io) &nbsp;·&nbsp; [Email](mailto:zidan3.dev@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/zidanalhilali)
 
-## 🛠 Toolset
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-| Mobile | Desktop / Backend | Practices | Tools |
-|---|---|---|---|
-| Flutter, Dart | C#, .NET, Windows Forms | Clean Architecture | Git, GitHub |
-| Riverpod | Entity Framework Core | Feature-First structure | |
-| Firebase Auth, Firestore | SQL Server, LINQ | Repository pattern, DI | |
+</div>
 
----
+<br>
 
-## 📱 Craftsmen Directory — Mobile App Development Intern @ Pixel Mind
+## About
 
-A two-sided MVP marketplace connecting customers with local service providers (electricians, plumbers, carpenters, and more) — covering registration, profiles, service requests, and reviews.
+I build full features end to end — requirements, UI design, implementation, and version control — rather than isolated functions. My foundation is object-oriented programming, data structures, and algorithms, and I've applied it to two shipped products: a real-time mobile marketplace and a desktop HR system.
 
-- Implemented authentication, search & filtering, and a ratings system with **Flutter + Firebase Authentication + Cloud Firestore**.
-- Designed the full UI and design system in Google Stitch, then built every screen in Flutter.
-- Structured with **Feature-First + Clean Architecture**, state managed with **Riverpod**.
-- Built in a two-person team using Git/GitHub (feature branches, pull requests).
+<br>
+
+## Toolset
+
+<table>
+<tr><td width="180"><strong>Mobile</strong></td><td>Flutter, Dart, Riverpod, Firebase Authentication, Cloud Firestore</td></tr>
+<tr><td><strong>Desktop / Backend</strong></td><td>C#, .NET, Windows Forms, Entity Framework Core, SQL Server, LINQ</td></tr>
+<tr><td><strong>Practices</strong></td><td>Clean Architecture, Feature-First structure, Repository pattern, Dependency Injection</td></tr>
+<tr><td><strong>Foundations</strong></td><td>OOP, Data Structures &amp; Algorithms, SQL, Git / GitHub</td></tr>
+</table>
+
+<br>
+
+## Experience
+
+**Mobile App Development Intern** — Pixel Mind &nbsp;·&nbsp; *Jun 2026 – Aug 2026*
+<br><sub>Craftsmen Directory — a two-sided MVP marketplace connecting customers with local service providers</sub>
+
+- Built a two-sided MVP marketplace covering registration, profiles, service requests, and reviews.
+- Implemented authentication, search &amp; filtering, and a ratings system with Flutter, Firebase Authentication, and Cloud Firestore.
+- Designed the full UI and design system in Google Stitch, then implemented every screen in Flutter.
+- Structured the app with Feature-First and Clean Architecture principles, using Riverpod for state management.
+- Worked in a two-person team on Git/GitHub with feature branches and pull requests.
 
 *Client project — source is private. Screenshots below are from the live build.*
 
@@ -48,14 +60,15 @@ A two-sided MVP marketplace connecting customers with local service providers (e
 </tr>
 </table>
 
----
+<br>
 
-## 🖥 HRPro — Employee Management System (Independent Project)
+## Projects
 
-A desktop HR system covering employee records, attendance and leave tracking, role-based login, and exportable reports (PDF/Excel).
+**HRPro — Employee Management System** &nbsp;·&nbsp; *Independent project*
+<br><sub>Desktop HR system covering employee records, attendance and leave tracking, role-based login, and exportable reports</sub>
 
 - Three-layer architecture (UI, domain, data access).
-- Data layer modeled with **EF Core (Code-First)** + migrations against **SQL Server**, using **LINQ**, **Dependency Injection**, and the **Repository pattern**.
+- Data layer modeled with EF Core (Code-First) and migrations against SQL Server, using LINQ, Dependency Injection, and the Repository pattern.
 
 *Academic submission — source is private. Screenshots below are from the running app.*
 
@@ -70,16 +83,19 @@ A desktop HR system covering employee records, attendance and leave tracking, ro
 </tr>
 </table>
 
----
+<br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=zidanalhilali&show_icons=true&count_private=true&hide_border=true" alt="Zidan's GitHub stats" width="420" />
 
----
+<br>
 
-## 📫 Reach me
+## Contact
 
-- Email: zidan3.dev@gmail.com
-- Phone: +967 776 776 922
-- GitHub: [@zidanalhilali](https://github.com/zidanalhilali)
+<table>
+<tr><td width="90">Email</td><td>zidan3.dev@gmail.com</td></tr>
+<tr><td>Phone</td><td>+967 776 776 922</td></tr>
+<tr><td>Portfolio</td><td><a href="https://zidanalhilali.github.io">zidanalhilali.github.io</a></td></tr>
+<tr><td>GitHub</td><td><a href="https://github.com/zidanalhilali">github.com/zidanalhilali</a></td></tr>
+</table>
