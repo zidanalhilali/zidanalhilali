@@ -38,13 +38,15 @@ A two-sided MVP marketplace connecting customers with local service providers (e
 
 *Client project — source is private. Screenshots below are from the live build.*
 
-<p float="left">
-  <img src="assets/mobile_1.jpg" width="150" />
-  <img src="assets/mobile_2.jpg" width="150" />
-  <img src="assets/mobile_3.jpg" width="150" />
-  <img src="assets/mobile_4.jpg" width="150" />
-  <img src="assets/mobile_5.jpg" width="150" />
-</p>
+<table>
+<tr>
+<td align="center" width="150"><img src="assets/mobile_1.jpg" width="150"><br><sub>Login</sub></td>
+<td align="center" width="150"><img src="assets/mobile_2.jpg" width="150"><br><sub>Customer home</sub></td>
+<td align="center" width="150"><img src="assets/mobile_3.jpg" width="150"><br><sub>Browse craftsmen</sub></td>
+<td align="center" width="150"><img src="assets/mobile_4.jpg" width="150"><br><sub>Craftsman home</sub></td>
+<td align="center" width="150"><img src="assets/mobile_5.jpg" width="150"><br><sub>Ratings</sub></td>
+</tr>
+</table>
 
 ---
 
@@ -57,14 +59,16 @@ A desktop HR system covering employee records, attendance and leave tracking, ro
 
 *Academic submission — source is private. Screenshots below are from the running app.*
 
-<p float="left">
-  <img src="assets/desktop_1.jpg" width="220" />
-  <img src="assets/desktop_2.jpg" width="220" />
-</p>
-<p float="left">
-  <img src="assets/desktop_add_employee.jpg" width="220" />
-  <img src="assets/desktop_4.jpg" width="220" />
-</p>
+<table>
+<tr>
+<td align="center" width="260"><img src="assets/desktop_1.jpg" width="260"><br><sub>Dashboard — attendance &amp; leave overview</sub></td>
+<td align="center" width="260"><img src="assets/desktop_2.jpg" width="260"><br><sub>Employee records</sub></td>
+</tr>
+<tr>
+<td align="center" width="260"><img src="assets/desktop_add_employee.jpg" width="260"><br><sub>Add employee</sub></td>
+<td align="center" width="260"><img src="assets/desktop_4.jpg" width="260"><br><sub>Leave requests</sub></td>
+</tr>
+</table>
 
 ---
 
