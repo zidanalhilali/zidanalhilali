@@ -1,10 +1,19 @@
-# Hi, I'm Zidan Al-Hilali
+# Hi, I'm Zidan Al-Hilali 👋
 
 Junior Software Developer building mobile apps with **Flutter** and desktop systems with **C# / .NET** — from requirements and UI design through to a working product.
 
 📍 Sana'a, Yemen — open to remote work
 🎓 B.Sc. Information Technology, GPA 90%
 🧠 650+ programming problems solved
+🌐 Portfolio: [zidanalhilali.dev](#) &nbsp;*(add your live link once hosted)*
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -56,6 +65,12 @@ A desktop HR system covering employee records, attendance and leave tracking, ro
   <img src="assets/desktop_add_employee.jpg" width="220" />
   <img src="assets/desktop_4.jpg" width="220" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=zidanalhilali&show_icons=true&count_private=true&hide_border=true" alt="Zidan's GitHub stats" width="420" />
 
 ---
 
