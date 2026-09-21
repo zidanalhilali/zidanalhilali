@@ -89,7 +89,6 @@ I build full features end to end — requirements, UI design, implementation, an
 
 <table>
 <tr><td width="90">Email</td><td>zidan3.dev@gmail.com</td></tr>
-<tr><td>Phone</td><td>+967 776 776 922</td></tr>
 <tr><td>Portfolio</td><td><a href="https://zidanalhilali.netlify.app">zidanalhilali.netlify.app</a></td></tr>
 <tr><td>LinkedIn</td><td><a href="https://linkedin.com/in/zidanalhilali">linkedin.com/in/zidanalhilali</a></td></tr>
 <tr><td>GitHub</td><td><a href="https://github.com/zidanalhilali">github.com/zidanalhilali</a></td></tr>
