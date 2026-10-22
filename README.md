@@ -2,7 +2,7 @@
 
 # Zidan Al-Hilali
 
-**Junior Software Developer** — Mobile (Flutter) &amp; Desktop (C# / .NET)
+**Junior Software Developer** — .NET (ASP.NET Core MVC, Windows Forms, SQL Server) & Flutter
 
 Sana'a, Yemen — open to remote work · B.Sc. Information Technology, GPA 90% · 650+ programming problems solved
 
@@ -30,7 +30,7 @@ I build full features end to end — requirements, UI design, implementation, an
 
 <table>
 <tr><td width="180"><strong>Mobile</strong></td><td>Flutter, Dart, Riverpod, Firebase Authentication, Cloud Firestore</td></tr>
-<tr><td><strong>Desktop / Backend</strong></td><td>C#, .NET, Windows Forms, Entity Framework Core, SQL Server, LINQ</td></tr>
+<tr><td><strong>Desktop / Backend</strong></td><td>C#, .NET, Windows Forms, Entity Framework Core, SQL Server, LINQ, ASP.NET Core MVC, Razor</td></tr>
 <tr><td><strong>Practices</strong></td><td>Clean Architecture, Feature-First structure, Repository pattern, Dependency Injection</td></tr>
 <tr><td><strong>Foundations</strong></td><td>OOP, Data Structures &amp; Algorithms, SQL, Git / GitHub</td></tr>
 </table>
@@ -84,6 +84,9 @@ I build full features end to end — requirements, UI design, implementation, an
 </table>
 
 <br>
+
+**Bookstore — ASP.NET Core MVC web app** · *Independent project* · [Source code](https://github.com/zidanalhilali/Bookstore)  
+Book catalog with full CRUD, search, image upload and validation, built with EF Core and SQL Server using the Repository pattern and Dependency Injection.
 
 ## Contact
 
